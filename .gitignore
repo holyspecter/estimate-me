@@ -1,0 +1,4 @@
+/web/components/*
+!/web/components/.gitkeep
+/vendor
+/.idea

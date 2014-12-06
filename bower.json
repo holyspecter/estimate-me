@@ -1,0 +1,24 @@
+{
+  "name": "estimate-me",
+  "version": "0.0.0",
+  "authors": [
+    "hospect <hospect@gmail.com>"
+  ],
+  "description": "Try to estimate task without any information",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "web/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.1",
+    "angular": "~1.3.5"
+  }
+}

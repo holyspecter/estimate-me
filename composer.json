@@ -1,0 +1,15 @@
+{
+    "name": "hospect/estimate-me",
+    "description": "Try to estimate task without any information",
+    "require": {
+        "silex/silex": "~2.0@dev",
+        "doctrine/dbal": "~2.6@dev"
+    },
+    "authors": [
+        {
+            "name": "hospect",
+            "email": "hospect@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
